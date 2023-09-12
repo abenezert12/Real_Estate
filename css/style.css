@@ -90,7 +90,7 @@ header .fa-bars{
 }
 .home .home-slid .box::before{
     content: "";
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.116);
     position: absolute;
     bottom: 0;
     top: 0;
