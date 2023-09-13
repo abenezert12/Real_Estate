@@ -11,7 +11,7 @@
 }
 :root{
     --min-color: #fff;
-    --sc-color: #3ec1d5;
+    --sc-color: #b38b13;
     --th-color: #333;
 }
 html{
@@ -59,7 +59,7 @@ header{
     align-items: center;
     justify-content: space-between;
     padding: 1rem 3%;
-    background: rgba(10, 10, 9, 0.6);
+    background: rgba(111, 86, 3, 0.745);
     z-index: 1001;
 }
 header .logo{
@@ -149,7 +149,7 @@ header .fa-bars{
 }
 .services .row .box:hover{
     box-shadow: 0.5rem 0.5rem 0.5rem rgba(0, 0, 0, 0.2);
-    background: #dc080872;
+    background: #edab0488;
 }
 .services .row .box i{
     font-size: 5rem;
@@ -261,7 +261,7 @@ header .fa-bars{
 }
 .contact .row .form-c input,textarea{
     background: var(--min-color);
-    border: 0.1rem solid rgb(160, 160, 160);
+    border: 0.1rem solid rgb(148, 143, 143);
     padding: 1rem;
     height: 4.5rem; width: 100%;
     margin: 0.7rem 0;
@@ -285,7 +285,7 @@ header .fa-bars{
     padding: 1rem;
 }
 .footer{
-    background: #222;
+    background: #4e3800;
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(20%,1fr));
     gap: 2rem;
