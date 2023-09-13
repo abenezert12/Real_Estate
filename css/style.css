@@ -97,7 +97,7 @@ header .fa-bars{
 }
 .home .box::before{
     content: "";
-    background: rgba(0, 0, 0, 0.542);
+    background: rgba(0, 0, 0, 0.558);
     position: absolute;
     bottom: 0;
     top: 0;
