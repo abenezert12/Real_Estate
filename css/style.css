@@ -149,7 +149,7 @@ header .fa-bars{
 }
 .services .row .box:hover{
     box-shadow: 0.5rem 0.5rem 0.5rem rgba(0, 0, 0, 0.2);
-    background: #c8c7c79b;
+    background: #dc080872;
 }
 .services .row .box i{
     font-size: 5rem;
