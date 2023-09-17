@@ -8,15 +8,6 @@ Fabars.onclick = () =>{
 
 
 
-var swiper = new Swiper(".home-slid", {
-    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev",
-    },
-});
-
-
-
 var swiper = new Swiper(".team-slider", {
     loop: true,
     slidesPerView: 1,
